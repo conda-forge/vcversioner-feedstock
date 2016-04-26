@@ -5,7 +5,7 @@ Home: https://github.com/habnabit/vcversioner
 
 Package license: ISC
 
-Feedstock license: BSD 3-Clause
+Feedstock license: BSD-3-Clause
 
 Summary: Take version numbers from version control
 
