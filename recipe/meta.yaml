@@ -27,9 +27,10 @@ test:
 about:
   home: https://github.com/habnabit/vcversioner
   license: ISC
-  summary: Take version numbers from version control
+  summary: 'Take version numbers from version control.'
 
 extra:
   recipe-maintainers:
     - anguslees
     - minrk
+    - ocefpaf
